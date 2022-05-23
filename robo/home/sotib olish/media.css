@@ -1,0 +1,16 @@
+@media screen and (max-width:540px) {
+    .card{
+        width: 300px;
+       
+    }
+    ul li{
+        font-size: 12px;
+    }
+    .card img{
+        width: 20px;
+    }
+    .btn a{
+        width: 150px;
+        height: 35px;
+    }
+}

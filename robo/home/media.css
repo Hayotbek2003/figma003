@@ -1,0 +1,584 @@
+@media screen and (max-width:1400px) {
+    .topchild1{
+        width: 500px;
+        height: 500px;
+       
+    
+    }
+    .topimg{
+        height: 600px;
+      width: 700px;
+     
+    
+  }
+  .topimg img{
+      width: 900px;
+      height: 750px;
+      margin: -70px 0 0 -20px;
+  }
+    .topchild1{
+        width: 400px;
+    }
+    .s3card div{
+        width: 650px;
+        height: 100px;
+    
+    }
+    .imgres{
+        width: 500px;
+    }
+    .card div{
+        width: 350px;
+    }
+    .section6 img{
+        width: 500px;
+    }
+    .section7 img{
+        width: 550px;
+    }
+}
+@media screen and (max-width:1280px) {
+    .topimg{
+        height: 550px;
+      width: 520px;
+     
+    
+  }
+  .topimg img{
+      width: 700px;
+      height: 750px;
+      margin: -70px 0 0 -20px;
+  }
+  .section3{
+    flex-wrap: wrap;
+    justify-content:center;
+}
+.s3card div{
+    width:950px;
+    height: 100px;
+}
+.imgres{
+    width: 800px;
+    margin-left: -100px;
+}
+.section6 img{
+    width: 450px;
+}
+.natijalar h1{
+    font-family: 'Poppins';
+
+font-weight: 700;
+font-size: 32px;
+margin: 20px 0;
+}
+.natijalar h3{
+    font-family: 'Poppins';
+font-weight: 500;
+font-size: 22px;
+}
+.natijalar p{
+    font-family: 'Poppins';
+font-weight: 500;
+font-size: 18px;
+margin: 20px 0;
+}
+.btnkurs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+height: 60px;
+background-color:#E6C22C;
+border-radius: 20px;
+
+margin: 50px 0;
+}
+.btnkurs a{
+    color: #fff;
+}
+}
+@media screen and (max-width:1150px) {
+    
+    .topimg{
+        height: 550px;
+      width: 440px;
+    
+    
+  }
+  .topimg img{
+      width: 605px;
+      height: 750px;
+      margin: -70px 0 0 -20px;
+  }
+  .question p{
+       font-size: 14px;
+    margin: 20px 0 10px 0;
+    }
+    .question input{
+        width: 400px;
+    height: 50px;
+    padding-left: 20px;
+    }
+    .question a{
+        width: 400px;
+        height: 50px;
+        margin: 50px 0 10px;
+    
+    }
+    .question .matn{
+       padding: 30px 30px 90px 30px; 
+    }
+ 
+}
+@media screen and (max-width:1024px) {
+    li{
+        width: 170px;
+        height: 55px;
+        border: 4px solid black;
+        border-radius: 16px;
+        overflow: hidden;
+        margin-left: 16px;
+    }
+    .topchild1{
+        width: 440px;
+        height: 500px;
+    
+    
+    }
+    .topimg{
+        height: 550px;
+      width: 420px;
+      
+      
+    
+  }
+  .topimg img{
+      width: 580px;
+      height: 750px;
+      margin: -70px 0 0 -20px;
+  }
+  .s3card div{
+    max-width:800px;
+    height: 100px;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+.calls{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+}
+}
+@media screen and (max-width:1023px) {
+    .topimg{
+   
+        height: 600px;
+      width: 700px;
+     
+    
+  }
+  .topimg img{
+      width: 900px;
+      height: 750px;
+     
+  }
+  .top{
+   
+   
+    align-items: center;
+   
+    padding-bottom: 50px;
+
+}
+.topchild1{
+    width: 600px;
+  
+
+}
+.section2{
+  
+    flex-wrap: wrap;
+   
+}
+.rocket{
+    width: 600px;
+}
+.section6{
+    flex-wrap: wrap;
+    
+    justify-content:center;
+}
+.section6 img{
+    width: 550px;
+}
+.section7 img{
+    width: 700px;
+}
+.section7{
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.question p{
+margin: 30px 0 10px 0;
+}
+.question input{
+    width: 518.48px;
+height: 64px;
+padding-left: 30px;
+}
+.question a{
+    width: 518px;
+    height: 64px;
+    margin: 50px 0 10px;
+
+}
+
+.question .matn{
+   padding: 30px 30px 130px 30px; 
+}
+}
+@media screen and (max-width:850px) {
+    .s3card div{
+       
+        width:600px;
+        height: 80px;
+       
+    }
+}
+@media screen and (max-width:790px) {
+    .topimg{
+       /* margin-top: -100px; */
+            height: 600px;
+          width: 700px;
+        
+      }
+      .topimg img{
+          width: 700px;
+          height: 750px;
+         
+      }
+      .btna{
+       
+        width: 150px;
+        height: 50px;
+      
+        border-radius: 15px;
+        
+    }
+    .rocket{
+        margin-top: -100px;
+    }
+    .imgres{
+        width: 450px;
+    }
+    
+}
+@media screen and (max-width:540px) {
+    .meniu{
+        display: block;
+    }
+    nav ul {
+        display: none;
+        justify-content: center;
+        align-items: center;
+    }
+    nav img{
+        width: 120px;
+    }
+    .topimg{
+        margin-top: -100px;
+        height: 500px;
+        max-width: 370px;
+        
+    }
+
+    .topimg img{
+        width: 500px;
+        height: 750px;
+       
+    }
+    .topchild1 h1{
+        font-size: 38px;
+        margin:30px 0;
+      }
+      .topchild1 h3{
+          font-size: 23px;
+          margin:20px 0;
+      }
+      .topchild1 p{
+          font-size: 18px;
+          margin:20px 0;
+      }
+      .rocket{
+        width: 400px;
+    }
+    .s2child2 h1{
+        margin: 30px;
+        font-family: 'Poppins';
+        font-weight: 700;
+        font-size: 30px;
+    
+    }
+    .s2child2 h4{
+    margin: 20px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    }.s2child2 p{
+        margin: 20px;
+        font-family: 'Poppins';
+       
+        font-weight: 500;
+        font-size: 18px;
+      
+    }
+    /* .way{
+    display: none;
+    } */
+    .s3card div img{
+        display: none;
+    }
+    
+        
+     
+    .s3card div{
+       
+        width:400px;
+        height: 80px;
+        flex-direction: column;
+       
+    }
+    .section3 img{
+        width: 350px;
+    }
+    .section6 img{
+        width: 330px;
+    }
+    .section7 img{
+        width: 370px;
+    }
+
+    .question p{
+    margin: 20px 0 10px 0;
+    }
+    .question input{
+        width: 400px;
+    height: 50px;
+    padding-left: 20px;
+    }
+    .question a{
+        width: 400px;
+        height: 50px;
+        margin: 50px 0 10px;
+    
+        border-radius: 10px;
+    
+    }
+    
+
+    .question .matn{
+       padding: 30px 30px 100px 30px; 
+    }
+    footer{
+        padding: 50px 7%;
+        flex-wrap: wrap;
+    }
+    .calls{
+        margin-top: 30px;
+    }
+    .call{
+        font-size: 28px;
+        width: auto;
+    }
+}
+@media screen and (max-width:480px) {
+    .topimg{
+        margin-top: -300px;
+        height: 500px;
+        max-width: 370px;
+        
+    }
+
+    .topimg img{
+        width: 400px;
+        height: 750px;
+       
+    }
+    .topchild1 h1{
+        font-size: 30px;
+        margin:20px 0;
+      }
+      .topchild1 h3{
+          font-size: 20px;
+          margin:15px 0;
+      }
+      .topchild1 p{
+          font-size: 15px;
+          margin:15px 0;
+      }
+     .btna{
+       
+        width: 110px;
+        height: 38px;
+       font-size: 14px;
+        border-radius: 10px;
+        margin: 30px 0;
+    }
+    .rocket{
+        width: 320px;
+        margin-top: -150px;
+    }
+    .card div{
+        width: 250px;
+        height: 550px;
+    }
+    .btncard a{
+       width: 140px;
+       height: 45px;
+       border-radius: 15px;
+    
+    }
+    .card2 p{
+        margin: 5px 0 43px 0 ;
+    }
+    .card3 p{
+        margin: 5px 0 67px 0 ;
+    }
+    .s3card div{
+       
+        width:300px;
+        height: 80px;
+        flex-direction: column;
+      
+    }
+    .section3 img{
+        width: 250px;
+        margin-left: -10px;
+    }
+    .section5 p{
+        margin:50px 0;
+        font-size: 40px;
+    }
+    .section7 img{
+        width: 350px;
+    }
+
+    .question p{
+    margin: 20px 0 10px 0;
+    }
+    .question input{
+        width: 300px;
+    height: 50px;
+    padding-left: 20px;
+
+    }
+    .question a{
+        width: 300px;
+        height: 50px;
+        margin: 45px 0 10px;
+    
+    }
+    .question .matn{
+       padding: 30px 30px 100px 30px; 
+    }
+    
+}
+@media screen and (max-width:440px) {
+    .topimg{
+        margin-top: -280px;
+        height: 500px;
+        max-width: 370px;
+        
+    }
+    .rocket{
+      margin-left: -30px;
+    }
+    
+      
+}
+@media screen and (max-width:360px) {
+    .topimg{
+        margin-top: -300px;
+        height: 500px;
+        max-width: 370px;
+        
+    }
+    .topimg img{
+        width: 350px;
+        height: 750px;
+       
+    }
+    .btna{
+        width: 100px;
+        height: 33px;
+       font-size: 13px;
+        border-radius: 8px;
+    }
+    .topchild1 h1{
+        font-size: 28px;
+        margin:18px 0;
+      }
+      .topchild1 h3{
+          font-size: 18px;
+          margin:13px 0;
+      }
+      .topchild1 p{
+          font-size: 15px;
+          margin:10px 0;
+      }
+      
+     .rocket{
+        width: 250px;
+        margin-left: -30px;
+    }
+    .section6 img{
+        width: 290px;
+    }
+    .section7 img{
+        width: 320px;
+    }
+
+    .question p{
+        font-size: 12px;
+    margin: 15px 0 5px 0;
+    }
+    .question input{
+        width: 250px;
+    height: 40px;
+    padding-left: 15px;
+    }
+    .question a{
+        width: 250px;
+        height: 40px;
+        margin: 45px 0 10px;
+        border-radius: 10px;
+    
+    }
+    .question .matn{
+       padding: 20px 30px 110px 20px; 
+    }
+    .call{
+        font-size: 20px;
+        width: 300px;
+    }
+    footer div i{
+        font-size: 20px;
+      margin-left: 20px;
+    }
+    .calls{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        margin-left: 0;
+    }
+}
+
+

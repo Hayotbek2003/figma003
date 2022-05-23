@@ -1,0 +1,48 @@
+@media screen and (max-width:1400px) {
+    .cards div{
+        width: 500px;
+    height: 120px;
+    }
+}
+@media screen and (max-width:1300px) {
+    .cards div{
+        width: 450px;
+    height: 100px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .cards div{
+        width: 600px;
+    height: 130px;
+    }
+}
+@media screen and (max-width:540px) {
+    .meniu{
+        display: block;
+    }
+    .li{
+        display: none;
+    }
+    .btn a{
+       
+        width: 170px;
+        height: 45px;
+        
+        border-radius: 12px;
+     }
+}
+@media screen and (max-width:400px) {
+    h3{
+        font-size: 21px;
+    }
+    h1{
+        font-size: 35px;
+    }
+    .btn a{
+       
+       width: 150px;
+       height: 40px;
+       
+       border-radius: 10px;
+    }
+}
